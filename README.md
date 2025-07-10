@@ -26,7 +26,7 @@ Whether it's enhancing medical images, predicting diseases, or crafting intuitiv
 
 ## 🚀 Featured Project: Graduation Project
 
-### [🫀 Cardiac Strain Mapping using Deep Learning](https://github.com/AliBadran716/Cardiac-Strain-Mapping-from-Cine-MRI-using-Deep-Learning)
+### [ Cardiac Strain Mapping using Deep Learning](https://github.com/AliBadran716/Cardiac-Strain-Mapping-from-Cine-MRI-using-Deep-Learning)
 
 > A full-stack AI-powered web platform that estimates cardiac strain from cine MRI using deep learning, with DICOM visualization and AHA bull’s-eye plots.
 
@@ -52,13 +52,13 @@ Whether it's enhancing medical images, predicting diseases, or crafting intuitiv
 
 ## 🎓 Certifications & Internships
 
-- 🛠️ **Software Development Intern** @ EzzMedical (Jul–Aug 2024)  
+- 🛠️ [**Software Development Intern** @ EzzMedical (Jul–Aug 2024)]([https://drive.google.com/file/d/your-certificate-id/view?usp=sharing](https://drive.google.com/file/d/1NhY-Mp8ZeF3T1wr6BPBntabLjJI83wcp/view?usp=sharing))  
   _Built testing automation platform for ventilators with ASL 5000 simulator integration._
 
 - 🔌 **Embedded Systems Trainee** @ EDGES Academy (Mar–Jul 2024)  
   _Worked on STM32 & ATmega32 with real-time OS and communication protocols._
 
-- ⚙️ **Calibration Engineer Intern** @ MECL (Jul–Aug 2023)  
+- ⚙️ [**Calibration Engineer Intern** @ MECL (Jul–Aug 2023)]([https://drive.google.com/file/d/your-certificate-id/view?usp=sharing](https://drive.google.com/file/d/1yCFhScMsN5hs3VjhiwTCl3Py_ckqlG5y/view?usp=drive_link))  
   _Calibrated ECGs, defibrillators, and patient monitors to lab protocols._
 
 ---
