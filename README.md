@@ -65,7 +65,7 @@ Whether it's enhancing medical images, predicting diseases, or crafting intuitiv
 
 ## 📄 Resume & Links
 
-- 📄 [Download My Resume (PDF)]([https://drive.google.com/file/d/1rXQfDCBUY18HyjZf4z4TBHEJeKXwD3MS/view?usp=sharing](https://drive.google.com/file/d/1d9to-MXyrhY4Ft2ZdRiXvR1m02vGNxna/view?usp=drive_link))  
+- 📄 [Download My Resume (PDF)](https://drive.google.com/file/d/1rXQfDCBUY18HyjZf4z4TBHEJeKXwD3MS/view?usp=sharing)  
 - 🔗 [LinkedIn: Ali Badran](https://www.linkedin.com/in/ali-badran-716ali)  
 - 💼 [GitHub Portfolio](https://github.com/AliBadran716)
 
