@@ -1,16 +1,87 @@
-## Hi there 👋
+# 👋 Hey there! I'm Ali Badran
 
-<!--
-**AliBadran716/AliBadran716** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AI & Deep Learning Engineer | 💡 Biomedical AI Enthusiast | 🧠 Computer Vision Explorer  
+📍 Based in Cairo, Egypt | 🌍 Open to Remote & Global Roles  
+> "Building intelligent systems that learn, adapt, and make a difference."
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 About Me
+
+I'm a Systems & Biomedical Engineering senior at **Cairo University** (GPA: 3.84), passionate about blending **AI, healthcare, and software engineering** to solve real-world problems.
+
+Whether it's enhancing medical images, predicting diseases, or crafting intuitive apps — I enjoy building smart, scalable solutions that matter. I believe in learning by doing, and my GitHub is where my curiosity lives.
+
+---
+
+## 🛠️ Tech Stack & Interests
+
+- **Languages:** Python, C++, C, JavaScript, SQL, HTML/CSS  
+- **AI/ML:** TensorFlow, Scikit-learn, MONAI, XGBoost, OpenCV  
+- **Tools:** PyQt, React.js, FastAPI, Jupyter, Git/GitHub  
+- **Embedded Systems:** ATmega32, STM32, UART/SPI/I2C  
+- **Other:** Image Processing, Signal Processing, Medical Imaging, Data Visualization
+
+---
+
+## 🚀 Featured Project: Graduation Project
+
+### [🫀 Cardiac Strain Mapping using Deep Learning](https://github.com/AliBadran716/Cardiac-Strain-Mapping-from-Cine-MRI-using-Deep-Learning)
+
+> A full-stack AI-powered web platform that estimates cardiac strain from cine MRI using deep learning, with DICOM visualization and AHA bull’s-eye plots.
+
+**Highlights:**
+- Built using TensorFlow, MONAI, React.js, FastAPI, Cornerstone.js  
+- Used U-Net & VoxelMorph for motion estimation  
+- Simulated cine MRI sequences for training & testing  
+- Interactive UI with real-time visualization tools
+
+---
+
+## 📂 Other Cool Projects
+
+- 🧠 [Chest X-ray Resolution Enhancement using ESRGAN](https://github.com/AliBadran716/Super-Resolution-of-Medical-X-ray-Images-Using-ESRGANs)  
+- ❤️ [Heart Disease Prediction (XGBoost)](https://github.com/AliBadran716/Heart_Disease_Prediction)  
+- 🖼️ [Computer Vision Toolkit](https://github.com/AliBadran716/Image-Processing-Kit)  
+- 🧬 [Functional Brain Mapping (fMRI)](https://github.com/AliBadran716/Investigating-Cognitive-Control-using-fMRI)  
+- 👤 [Face Recognition App (PCA + Real-time Detection)](https://github.com/AliBadran716/Face-Recognition)
+
+➡️ Check out all my projects in the [Repositories](https://github.com/AliBadran716?tab=repositories)
+
+---
+
+## 🎓 Certifications & Internships
+
+- 🛠️ **Software Development Intern** @ EzzMedical (Jul–Aug 2024)  
+  _Built testing automation platform for ventilators with ASL 5000 simulator integration._
+
+- 🔌 **Embedded Systems Trainee** @ EDGES Academy (Mar–Jul 2024)  
+  _Worked on STM32 & ATmega32 with real-time OS and communication protocols._
+
+- ⚙️ **Calibration Engineer Intern** @ MECL (Jul–Aug 2023)  
+  _Calibrated ECGs, defibrillators, and patient monitors to lab protocols._
+
+---
+
+## 📄 Resume & Links
+
+- 📄 [Download My Resume (PDF)](https://drive.google.com/file/d/1rXQfDCBUY18HyjZf4z4TBHEJeKXwD3MS/view?usp=sharing)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ali-badran-716ali)
+- 💼 [GitHub Portfolio](https://github.com/AliBadran716)
+
+---
+
+## 📊 GitHub Stats
+
+![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AliBadran716&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AliBadran716&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=AliBadran716&theme=radical&hide_border=false)
+
+---
+
+## 💬 Let’s Connect!
+
+If you're into AI, healthcare tech, computer vision — or just want to chat about ideas, feel free to reach out!
+
+📧 abadran716@gmail.com  
+📍 Cairo, Egypt | Available for remote & hybrid roles
