@@ -24,7 +24,7 @@ Whether it's enhancing medical images, predicting diseases, or crafting intuitiv
 
 ---
 
-## 🚀 Featured Project: Graduation Project
+## 🚀 Featured Project:
 
 ### [🤖 RAG-Powered Document Chatbot](https://github.com/AliBadran716/watsonx-rag-chatbot)
 An interactive **Retrieval-Augmented Generation (RAG) chatbot** that lets users upload PDFs and query them in natural language, with memory and source citations.  
@@ -34,7 +34,7 @@ An interactive **Retrieval-Augmented Generation (RAG) chatbot** that lets users 
 - Implements embeddings, conversational QA, and source attribution
 - Real-time web interface for interactive document querying
 
-### 🫀 Cardiac Strain Mapping using Deep Learning (Private – under publication)
+### 🫀 Cardiac Strain Mapping using Deep Learning (Graduation Project – Private – under publication)
 A full-stack AI-powered web platform that estimates cardiac strain from cine MRI using deep learning, with DICOM visualization and AHA bull’s-eye plots.  
 
 **Highlights:**
