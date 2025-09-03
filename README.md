@@ -26,16 +26,23 @@ Whether it's enhancing medical images, predicting diseases, or crafting intuitiv
 
 ## 🚀 Featured Project: Graduation Project
 
-### [🫀 Cardiac Strain Mapping using Deep Learning](https://github.com/AliBadran716/Cardiac-Strain-Mapping-from-Cine-MRI-using-Deep-Learning)
-
-> A full-stack AI-powered web platform that estimates cardiac strain from cine MRI using deep learning, with DICOM visualization and AHA bull’s-eye plots.
+### [🤖 RAG-Powered Document Chatbot](https://github.com/AliBadran716/watsonx-rag-chatbot)
+An interactive **Retrieval-Augmented Generation (RAG) chatbot** that lets users upload PDFs and query them in natural language, with memory and source citations.  
 
 **Highlights:**
-- Built using TensorFlow, MONAI, React.js, FastAPI, Cornerstone.js  
-- Used U-Net & VoxelMorph for motion estimation  
-- Simulated cine MRI sequences for training & testing  
-- Interactive UI with real-time visualization tools
+- Built with **IBM Watsonx.ai**, **LangChain**, **ChromaDB**, and **Gradio**
+- Implements embeddings, conversational QA, and source attribution
+- Real-time web interface for interactive document querying
 
+### 🫀 Cardiac Strain Mapping using Deep Learning (Private – under publication)
+A full-stack AI-powered web platform that estimates cardiac strain from cine MRI using deep learning, with DICOM visualization and AHA bull’s-eye plots.  
+
+**Highlights:**
+- TensorFlow, MONAI, React.js, FastAPI, Cornerstone.js
+- Used U-Net & VoxelMorph for motion estimation
+- Simulated cine MRI sequences for training & testing
+- Interactive UI with real-time visualization tools
+  
 ---
 
 ## 📂 Other Cool Projects
