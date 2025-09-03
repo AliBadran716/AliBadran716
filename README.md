@@ -73,7 +73,7 @@ A full-stack AI-powered web platform that estimates cardiac strain from cine MRI
 
 ## 📄 Resume & Links
 
-- 📄 [Download My Resume (PDF)](https://drive.google.com/file/d/1d9to-MXyrhY4Ft2ZdRiXvR1m02vGNxna/view?usp=drive_link)  
+- 📄 [Download My Resume (PDF)](https://drive.google.com/drive/folders/1JoqglDwayszIwIhLKgX3kS0OdqpiwjrU?usp=drive_link)  
 - 🔗 [LinkedIn: Ali Badran](https://www.linkedin.com/in/ali-badran-716ali)  
 - 💼 [GitHub Portfolio](https://github.com/AliBadran716)
 
