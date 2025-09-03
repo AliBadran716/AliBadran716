@@ -14,13 +14,14 @@ Whether it's enhancing medical images, predicting diseases, or crafting intuitiv
 
 ---
 
-## 🛠️ Tech Stack & Interests
+## 🛠️ Tech Stack & Interests  
 
-- **Languages:** Python, C++, C, JavaScript, SQL, HTML/CSS  
-- **AI/ML:** TensorFlow, Scikit-learn, MONAI, XGBoost, OpenCV  
-- **Tools:** PyQt, React.js, FastAPI, Jupyter, Git/GitHub  
-- **Embedded Systems:** ATmega32, STM32, UART/SPI/I2C  
-- **Other:** Image Processing, Signal Processing, Medical Imaging, Data Visualization
+- **Programming Languages:** Python, C++, C, SQL, JavaScript, HTML/CSS  
+- **AI & Machine Learning:** Generative AI (LLMs, Prompt Engineering, RAG, Agents), Deep Learning, Computer Vision, NLP, Image/Signal Processing  
+- **Frameworks & Libraries:** TensorFlow, PyTorch, Hugging Face, MONAI, scikit-learn, XGBoost, Pandas, NumPy, OpenCV, Seaborn  
+- **Tools & Platforms:** Git/GitHub, Jupyter, FastAPI, React.js, PyQt, Gradio, Docker (basics), CI/CD (basics)  
+- **Embedded Systems:** ATmega32, STM32, UART, SPI, I2C  
+- **Other Interests:** Biomedical AI, Medical Imaging, Data Visualization, Model Deployment  
 
 ---
 
