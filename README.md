@@ -26,6 +26,14 @@ Whether it's enhancing medical images, predicting diseases, or crafting intuitiv
 ---
 
 ## 🚀 Featured Project:
+### [💹 Watsonx Finance Agent](https://github.com/AliBadran716/watsonx-finance-agent)
+An AI-powered financial assistant that combines IBM Watsonx, LangChain, and Gradio to deliver real-time stock analysis, finance news, and intelligent insights.
+
+**Highlights:**
+- Integrated multiple tools: DuckDuckGo, Yahoo Finance News, yFinance
+- Conversational memory with context-aware responses
+- Accessible via both CLI & interactive Gradio web app
+- Uses LangSmith for prompt management and observability
 
 ### [🤖 RAG-Powered Document Chatbot](https://github.com/AliBadran716/watsonx-rag-chatbot)
 An interactive **Retrieval-Augmented Generation (RAG) chatbot** that lets users upload PDFs and query them in natural language, with memory and source citations.  
